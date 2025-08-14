@@ -8,3 +8,6 @@ However, at this point in my life, I almost have a PhD in ML, but I haven't crea
 The purpose of this repository is to document this obsession of mine. I don't know if I'll ever be famous for some AI thing that I made. I don't know if I'll ever have a top NeurIPS or ICLR paper or get a fancy Research Scientist job, but I'm grateful for ML because it showed me that there was something I could do for the rest of my life that would bring me so much joy.
 
 This repository will be my attempt at documenting everything I learn about AI for the rest of my life. I hope I can look at this repository in 50 years and be amazed at the progress of AI across time. Hoepfully I can make at least one thing that I find amazing.
+
+
+## Organization of Repo
