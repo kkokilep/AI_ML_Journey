@@ -1,4 +1,33 @@
 # AI ML Journey
+
+## Organization of Repo
+
+This repo will consist of a variety of topics related to almost every possible aspect of AI. I
+am not a specialist in anything, but I am an extreme hobbyist in everything. Every folder will consists of the following modules:
+
+### Folder Name
+
+* The folder itself will indicate which AI / ML topic of interest is utilized.
+
+### 1_Papers
+* This readme will have any academic or industry publications related to the topic of interest.
+
+### 2_News
+* This readme will have any news about the topic of interest.
+
+### 3_Codebases
+
+* This readme will have links and notes regarding the topic of interest.
+
+### 4_Notebooks
+
+* This will be a series of notebooks written by myself or found elsewhere to test utilizing the topic of interest.
+* The notebook itself will contain additional subsections to explain the intent/lesson behind the code.
+
+### 5_General_Notes
+
+* This will have textbook style notes related to the topic of interest to serve as a basis for more advanced topics.
+
 ## About Me
 
 To understand the significance of this respository, I feel that you must know a little bit about me. I was one of those people who never knew what they wanted to do in life. I did my undergraduate degree in electrical engineering because I had worked on a robotics project in high school and I thought that I knew what I was doing. At the end of undergrad, I felt that I wasn't living up to my full potential and I did a PhD in machine learning because it seemed like an interesting topic at the time, but I wasn't in love with it. I wanted to know what it felt like to love something. The first few years of my PhD, I spent a lot of time trying to publish as much as possible, but none of the papers I made were interesting to me. I knew how to write a paper that was publishable, but I didn't feel good about anything that I was making. This changed in the 4th year of my PhD when I found myself constantly thinking about ML and AI. I stopped caring about whether the papers got accepted and started wandering around investigating things I found interesting and fulfilling. The more I looked at AI/ML with this perspective, the more I found myself thinking about it. It didn't improve the acceptance rate of my papers, but I found personal fulfillment in it. It reached the point where my mind was on some AI topic almost every hour of every day. I loved it.
@@ -9,5 +38,3 @@ The purpose of this repository is to document this obsession of mine. I don't kn
 
 This repository will be my attempt at documenting everything I learn about AI for the rest of my life. I hope I can look at this repository in 50 years and be amazed at the progress of AI across time. Hoepfully I can make at least one thing that I find amazing.
 
-
-## Organization of Repo
