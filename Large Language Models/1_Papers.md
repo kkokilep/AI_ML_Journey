@@ -6,10 +6,10 @@ The papers readme will have papers that I consider must reads for the subsection
 The format will reflect the following:
 
 
-# <u> Year </u>
+# <u> 2025 </u>
 
-## Conference: ___ 
-### Paper Name: [Title](link)
+## Conference: Google White Paper 
+### Paper Name: [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 #### Paper Notes: 
 
 * 
