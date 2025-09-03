@@ -6,10 +6,10 @@ The papers readme will have papers that I consider must reads for the subsection
 The format will reflect the following:
 
 
-# <u> 2020 </u>
+# <u> Year </u>
 
-## Conference: O'Reiley Book Publisher
-### Paper Name: [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+## Conference: ___ 
+### Paper Name: [Title](link)
 #### Paper Notes: 
 
 * 
